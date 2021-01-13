@@ -9,7 +9,7 @@ import java.util.UUID;
 
 public class MainUI {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);//接受键盘输入
+        Scanner sc = new Scanner(System.in);//接受键盘输
         while (true) {
             System.out.println("按1，录入航班信息");
             System.out.println("按2，显示所有航班信息");
